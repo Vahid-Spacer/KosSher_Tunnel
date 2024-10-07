@@ -1,7 +1,7 @@
-<center>KosSher Tunnel is the best Tunnel XRayPanel's</center>
+
 
 # What is KosSher_Tunnel?
-A secure, stable and high-performance reverse proxy for NAT traversal, written in Rust
+A secure, stable and high-performance reverse proxy for NAT traversal, written in Rust (KosSher Tunnel is the best Tunnel XRayPanel's)
 
 ## How to Run?
 
