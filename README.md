@@ -1,7 +1,6 @@
-# KosSher_Tunnel
-KosSher Tunnel is the best Tunnel XRayPanel's
+<center>KosSher Tunnel is the best Tunnel XRayPanel's</center>
 
-# What is Rathole?
+# What is KosSher_Tunnel?
 A secure, stable and high-performance reverse proxy for NAT traversal, written in Rust
 
 ## How to Run?
